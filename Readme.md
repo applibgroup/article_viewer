@@ -52,8 +52,13 @@ In your Main .hml file import the following
     <th>This tag inputs the path to the next page with is the Defination View.</th>
   </tr>
 </table>
+<h2 align=center>📝 License & Copyright 📝</h2>
 
-
+<p align="center">
+ © Sahil Chutani and Devashish
+  <br>
+  Licensed under the <a href="https://github.com/sahilchutani/article_viewer/blob/main/LICENSE">APACHE LICENSE 2.0</a>
+</p>
 
 
 
