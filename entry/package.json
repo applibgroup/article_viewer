@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dS_list_view": "file:../dS_list_view"
+  }
+}

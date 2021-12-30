@@ -1,0 +1,9 @@
+<div class="{{base_container}}" >
+    <div class="{{ container }}">
+        <image class="{{img}}" src="{{image}}"></image>
+        <div class="{{text_main_container}}">
+            <text class="{{sub_title}}" onclick="explain">{{heading_p}}</text>
+            <text class="{{st_author}}">{{author}}</text>
+        </div>
+    </div>
+</div>

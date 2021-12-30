@@ -1,0 +1,5 @@
+<element name="dS_list" src="../../../../../../node_modules/dS_list_view/lib/ds_list/ds_list.hml"></element>
+<div class="container">
+    <text class="title" style="margin-top: 10px;">{{ title }}</text>
+    <ds_list type="define-item" image="common/images/ls03.jpg" heading="{{heading}}" heading2="{{heading_details}}" author="anonymous"></ds_list>
+</div>

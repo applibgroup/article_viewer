@@ -1,0 +1,11 @@
+<element name="dS_list" src="../../../../../../node_modules/dS_list_view/lib/ds_list/ds_list.hml"></element>
+<div class="container" >
+    <text class="title" style="margin-top: 10px;">{{ title }}</text>
+    <ds_list type="list-item" image="common/images/ls01.jpg"
+             heading="{{h_d1}}" heading2="{{h2d1}}" author="anonymous" paths="pages/page2/page2"></ds_list>
+    <ds_list type="list-item" image="common/images/ls02.jpg"
+             heading="{{h_d2}}" heading2="{{h2d2}}" author="anonymous" paths="pages/page3/page3"></ds_list>
+    <ds_list type="list-item" image="common/images/ls03.jpg"
+             heading="{{h_d3}}" heading2="{{h2d3}}" author="anonymous" paths="pages/page4/page4"></ds_list>
+
+</div>
